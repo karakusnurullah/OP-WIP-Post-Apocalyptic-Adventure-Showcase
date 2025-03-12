@@ -16,6 +16,7 @@ Welcome to the **OP Showcase**! 🎮
 
 Stay up to date with the latest development progress!  
 
+- **[Main Character Animations Update (12.03.2025)](Updates/Animations/MainCharactersAnimations.md)**
 - **[Main Character Update (08.03.2025)](Updates/Characters/MainCharacter.md)**  
 
 ➡ **[View All Updates](Updates/Update.md)**  
