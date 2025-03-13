@@ -16,8 +16,10 @@ Welcome to the **OP Showcase**! 🎮
 
 Stay up to date with the latest development progress!  
 
-- **[Main Character Animations Update (12.03.2025)](Updates/Animations/MainCharactersAnimations.md)**
-- **[Main Character Update (08.03.2025)](Updates/Characters/MainCharacter.md)**  
+- 🧪 **[Lab Update (14.03.2025)](Updates/Building/Lab/Lab.md)**  
+- 🚶 **[Main Characters Movement Update (14.03.2025)](Updates/Functions/MainCharacters.md)**  
+- 🎭 **[Main Character Animations Update (12.03.2025)](Updates/Animations/MainCharactersAnimations.md)**  
+- 🧑‍🎨 **[Main Character Update (08.03.2025)](Updates/Characters/MainCharacter.md)**  
 
 ➡ **[View All Updates](Updates/Update.md)**  
 
