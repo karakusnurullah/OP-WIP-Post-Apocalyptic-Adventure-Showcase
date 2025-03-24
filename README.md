@@ -16,9 +16,12 @@ Welcome to the **OP Showcase**! 🎮
 
 Stay up to date with the latest development progress!  
 
-- 🧪 **[Lab & Map Update (19.03.2025)](Updates/Building/Lab/Lab.md)**
-- 🧪 ~~**[Lab & Map Update (17.03.2025)](Updates/Building/Lab/Lab.md)**  
-- 🧪 ~~**[Lab Update (14.03.2025)](Updates/Building/Lab/Lab.md)**  
+- 🖥️ **Indoor & Outdoor UI Update (25.03.2025)**  
+- 🔄 **Indoor <> Outdoor Transition Update (25.03.2025)**  
+- 🎮 **Player Widget Update (25.03.2025)**  
+- 🧪 **[Lab & Map Update (19.03.2025)](Updates/Building/Lab/Lab.md)**  
+- 🧪 ~~**[Lab & Map Update (17.03.2025)](Updates/Building/Lab/Lab.md)**~~  
+- 🧪 ~~**[Lab Update (14.03.2025)](Updates/Building/Lab/Lab.md)**~~  
 - 🚶 **[Main Characters Movement Update (14.03.2025)](Updates/Functions/MainCharacters.md)**  
 - 🎭 **[Main Character Animations Update (12.03.2025)](Updates/Animations/MainCharactersAnimations.md)**  
 - 🧑‍🎨 **[Main Character Update (08.03.2025)](Updates/Characters/MainCharacter.md)**  
