@@ -16,7 +16,8 @@ Welcome to the **OP Showcase**! 🎮
 
 Stay up to date with the latest development progress!  
 
-- 🖥️ **Indoor & Outdoor UI Update (25.03.2025)**  
+- 🖥️ **Indoor & Outdoor Build Update (26.03.2025)**  
+- 🖥️ **Indoor & Outdoor UI Update (25.03.2025)**~~  
 - 🔄 **Indoor <> Outdoor Transition Update (25.03.2025)**  
 - 🎮 **Player Widget Update (25.03.2025)**  
 - 🧪 **[Lab & Map Update (19.03.2025)](Updates/Building/Lab/Lab.md)**  

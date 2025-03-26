@@ -3,6 +3,7 @@
 📰 Stay up to date with the latest changes, improvements, and additions to the project.  
 Below, you'll find the most recent updates on characters, animations, and designs.  
 
+- 🖥️ **Indoor & Outdoor Build Update (26.03.2025)** 
 - 🖥️ **Indoor & Outdoor UI Update (25.03.2025)**  
 - 🔄 **Indoor <> Outdoor Transition Update (25.03.2025)**  
 - 🎮 **Player Widget Update (25.03.2025)**  
