@@ -3,6 +3,7 @@
 📰 Stay up to date with the latest changes, improvements, and additions to the project.  
 Below, you'll find the most recent updates on characters, animations, and designs.  
 
+- 🖥️ **Camera, Character Update (30.04.2025)** 
 - 🖥️ **Camera, Character Update (28.04.2025)**  
 - 🖥️ **Building Completed (28.04.2025)**  
 - 🖥️ **Building, Camera, Character Update (21.04.2025)**  

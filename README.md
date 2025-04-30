@@ -16,6 +16,7 @@ Welcome to the **OP Showcase**! 🎮
 
 Stay up to date with the latest development progress!  
 
+- 🖥️ **Camera, Character Update (30.04.2025)**  
 - 🖥️ **Camera, Character Update (28.04.2025)**  
 - 🖥️ **Building Completed (28.04.2025)**  
 - 🖥️ **Building, Camera, Character Update (21.04.2025)**  
