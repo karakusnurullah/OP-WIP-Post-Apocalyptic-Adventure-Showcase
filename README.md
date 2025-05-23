@@ -12,29 +12,40 @@ Welcome to the **OP Showcase**! 🎮
 
 ---
 
-## 📢 Latest Updates 🔥  
+## 📢 Latest Updates (Last 5) 🔥  
 
 Stay up to date with the latest development progress!  
 
-- 🖥️ **Camera, Character Update (30.04.2025)**  
-- 🖥️ **Camera, Character Update (28.04.2025)**  
-- 🖥️ **Building Completed (28.04.2025)**  
-- 🖥️ **Building, Camera, Character Update (21.04.2025)**  
-- 🖥️ **Building Update (17.04.2025)**  
-- 🖥️ **Building Update (16.04.2025)**  
-- 🖥️ **Building Update (11.04.2025)**  
-- 🖥️ **Indoor & Outdoor Build Update (26.03.2025)**  
-- 🖥️ **Indoor & Outdoor UI Update (25.03.2025)**~~  
-- 🔄 **Indoor <> Outdoor Transition Update (25.03.2025)**  
-- 🎮 **Player Widget Update (25.03.2025)**  
-- 🧪 **[Lab & Map Update (19.03.2025)](Updates/Building/Lab/Lab.md)**  
-- 🧪 ~~**[Lab & Map Update (17.03.2025)](Updates/Building/Lab/Lab.md)**~~  
-- 🧪 ~~**[Lab Update (14.03.2025)](Updates/Building/Lab/Lab.md)**~~  
+- 🏗️ **[Building Mechanics Update (23.05.2025)](Updates/Building/Building.md)**
 - 🚶 **[Main Characters Movement Update (14.03.2025)](Updates/Functions/MainCharacters.md)**  
 - 🎭 **[Main Character Animations Update (12.03.2025)](Updates/Animations/MainCharactersAnimations.md)**  
-- 🧑‍🎨 **[Main Character Update (08.03.2025)](Updates/Characters/MainCharacter.md)**  
+- 🧑‍🎨 **[Main Character Update (08.03.2025)](Updates/Characters/MainCharacter.md)**
 
 ➡ **[View All Updates](Updates/Update.md)**  
+
+---
+
+## ✨ Highlights from Latest Updates (Last 5)
+
+### 🏗️ [Building Update](Updates/Building/Building.md)  
+| | |
+|---|---|
+| <img src="https://raw.githubusercontent.com/karakusnurullah/OP-WIP-Post-Apocalyptic-Adventure-Showcase/a5f91e52c11fd416b121d2cbad007734a5a9dc53/Assets/Gif/Building/MovementUpStair.gif" width="280"> | <img src="https://raw.githubusercontent.com/karakusnurullah/OP-WIP-Post-Apocalyptic-Adventure-Showcase/a5f91e52c11fd416b121d2cbad007734a5a9dc53/Assets/Gif/Building/Indoor.gif" width="280"> |
+
+### 🧍 [Main Character](Updates/Characters/MainCharacter.md)  
+| | |
+|---|---|
+| <img src="https://raw.githubusercontent.com/karakusnurullah/OP-WIP-Post-Apocalyptic-Adventure-Showcase/a5f91e52c11fd416b121d2cbad007734a5a9dc53/Assets/Gif/Characters/MainCharacters/ManShowcase.gif" width="280"> | <img src="https://raw.githubusercontent.com/karakusnurullah/OP-WIP-Post-Apocalyptic-Adventure-Showcase/a5f91e52c11fd416b121d2cbad007734a5a9dc53/Assets/Gif/Characters/MainCharacters/WomanShowcase.gif" width="280"> |
+
+### 🎮 [Animations](Updates/Animations/MainCharactersAnimations.md)  
+| | |
+|---|---|
+| <img src="https://raw.githubusercontent.com/karakusnurullah/OP-WIP-Post-Apocalyptic-Adventure-Showcase/a5f91e52c11fd416b121d2cbad007734a5a9dc53/Assets/Gif/Animations/MainCharacters/W_Locomotion_Unarmed.gif" width="280"> | <img src="https://raw.githubusercontent.com/karakusnurullah/OP-WIP-Post-Apocalyptic-Adventure-Showcase/a5f91e52c11fd416b121d2cbad007734a5a9dc53/Assets/Gif/Animations/MainCharacters/M_Locomotion_Unarmed.gif" width="280"> |
+
+### 🏃 [Movement](Updates/Functions/MainCharacters.md)  
+| |
+|---|
+| <img src="https://raw.githubusercontent.com/karakusnurullah/OP-WIP-Post-Apocalyptic-Adventure-Showcase/a5f91e52c11fd416b121d2cbad007734a5a9dc53/Assets/Gif/Functions/MainCharacters/Movement_1.gif" width="280"> |
 
 ---
 
