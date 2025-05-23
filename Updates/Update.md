@@ -10,7 +10,7 @@ Below, you'll find the most recent updates on characters, animations, and design
 
 ## ✨ Highlights from Latest Updates  
 
-### 🏗️ [Building Update](Updates/Building/Building.md)  
+### 🏗️ [Building Update](Building/Building.md)  
 | | |
 |---|---|
 | <img src="https://raw.githubusercontent.com/karakusnurullah/OP-WIP-Post-Apocalyptic-Adventure-Showcase/a5f91e52c11fd416b121d2cbad007734a5a9dc53/Assets/Gif/Building/MovementUpStair.gif" width="280"> | <img src="https://raw.githubusercontent.com/karakusnurullah/OP-WIP-Post-Apocalyptic-Adventure-Showcase/a5f91e52c11fd416b121d2cbad007734a5a9dc53/Assets/Gif/Building/Indoor.gif" width="280"> |
