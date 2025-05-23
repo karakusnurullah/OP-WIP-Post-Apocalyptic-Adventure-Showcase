@@ -65,6 +65,9 @@ Follow this repository for the latest updates as **ECOS** takes shape!
 🐦 **X (Twitter):** [@snowmechdev](https://twitter.com/snowmechdev)  
 💼 **LinkedIn:** [Nurullah Karakuş](https://www.linkedin.com/in/nurullahkarakus/)  
 ❤️ **Support on Patreon:** [patreon.com/Snowmech](https://patreon.com/Snowmech)  
+❤️ **Support on Buy me a Coffee:** [buymeacoffee.com/snowmech](https://buymeacoffee.com/snowmech) 
+
+https://buymeacoffee.com/snowmech
 📧 **Contact:** info.snowmech@gmail.com
 
 ---
