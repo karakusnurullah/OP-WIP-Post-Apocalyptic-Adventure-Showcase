@@ -67,7 +67,6 @@ Follow this repository for the latest updates as **ECOS** takes shape!
 ❤️ **Support on Patreon:** [patreon.com/Snowmech](https://patreon.com/Snowmech)  
 ❤️ **Support on Buy me a Coffee:** [buymeacoffee.com/snowmech](https://buymeacoffee.com/snowmech) 
 
-https://buymeacoffee.com/snowmech
 📧 **Contact:** info.snowmech@gmail.com
 
 ---
